@@ -1,0 +1,10 @@
+.input {
+  width: 100%;
+}
+
+.mainInputs div:first-child {
+  width: 100%;
+}
+.contacts {
+ font-size: 24px;
+}
