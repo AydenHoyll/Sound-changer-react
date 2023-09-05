@@ -10,3 +10,8 @@ To start this project on your machine:
 1) git clone
 2) yarn
 3) yarn start
+      Or
+Download the latest release and:
+1) unpack
+2) yarn or npm init
+3) yarn start or npm start
